@@ -6,7 +6,7 @@ const App = () => {
     <div id="main">
       <h1 data-ns-test="project-name">NetFlix</h1>
       <br/>
-      <h4 data-ns-test="project-name">video streaming web site</h4>
+      <h4 data-ns-test="project-description">video streaming web site</h4>
     </div>
   )
 }
